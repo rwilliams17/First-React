@@ -1,0 +1,1 @@
+ReactDOM.render(<p>React Project</p>, document.getElementById("root"))
